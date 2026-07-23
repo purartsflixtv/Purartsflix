@@ -1,4 +1,5 @@
-#EXTM3U
+
+#EXTINF:-1 group-title="Filmes" tvg-logo#EXTM3U
 
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7sez27t8Q3n5vRdrV2NjeRCX6B2i5Mc-KnY_VKqToQ&s=10", O Estado Elétrico (2025)
 https://ia800609.us.archive.org/0/items/paixaoflix-o-estado-eletrico/o-estado-eletrico.mp4
@@ -104,8 +105,7 @@ https://ia802801.us.archive.org/11/items/paixaoflix-emoji-o-filme/emoji-o-filme.
 
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/original/4CwKj1fw33BXYzxvrpM3GlAhK4L.jpg", Homem-Aranha: Através do Aranhaverso (2023)
 https://ia600903.us.archive.org/10/items/paixaoflix-homemaranha-atraves-do-aranhaverso/homemaranha-atraves-do-aranhaverso.mp4
-
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2sbOXdwwYd586z4DQ2awvptnIJAfvvcCHNazeH6wpBzDWykDXrw8tofeodx15CASt73s3m50a1Ujb-ly_Bf0ihU4GK76p5atIMWgmDZBN&s=10", Godzilla vs. Biollante (1989)
+="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2sbOXdwwYd586z4DQ2awvptnIJAfvvcCHNazeH6wpBzDWykDXrw8tofeodx15CASt73s3m50a1Ujb-ly_Bf0ihU4GK76p5atIMWgmDZBN&s=10", Godzilla vs. Biollante (1989)
 https://ia600901.us.archive.org/25/items/paixaoflix-godzilla-vs-biollante/godzilla-vs-biollante.mp4
 
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/zvRBvOyDifX3HNgqscIBtQO9jtP.jpg", Desejo em Manhattan (2026)
