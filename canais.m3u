@@ -21,6 +21,15 @@ https://ww4.embedtv.lat/espn3
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/espn4.png",ESPN 4
 https://ww4.embedtv.lat/espn4
 
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere 4
+https://ww4.embedtv.lat/premiere4
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere 5
+https://ww4.embedtv.lat/premiere5
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere 6
+https://ww4.embedtv.lat/premiere6
+
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/cartoonnetwork.png",Cartoon Network
 https://ww4.embedtv.lat/cartoonnetwork
 
