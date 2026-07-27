@@ -416,9 +416,6 @@ https://ia800103.us.archive.org/20/items/paixaoflix-cinema-15003/Chocolate_15003
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTNK6dNSm_5LSy4IQXZmIZVayPpo4hfJlqJi6iYTOC9g&s=10", Blue Lock: O Filme - Episódio Nagi (2024)
 https://ia802900.us.archive.org/33/items/paixaoflix-cinema-1104844/BLUE_LOCK_O_FILME_EPISODIO_NAG_1104844.mp4
 
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/iLRaOUwqi7zTYl8x0CeZOMEihBu.jpg", As Cores do Mal: Preto (2025)
-https://ia801900.us.archive.org/9/items/paixaoflix-cinema-1560681/As_Cores_do_Mal_Preto_1560681.mp4
-
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/m1S8YynLOUk4Ffk9NUsTfCIodLF.jpg", Hill: Amor pelo Jogo (2023)
 https://ia800901.us.archive.org/7/items/paixaoflix-cinema-862557/Hill_Amor_pelo_Jogo_862557.mp4
 
@@ -466,9 +463,6 @@ https://ia800605.us.archive.org/24/items/paixaoflix-cinema-518755/Um_Lobo_em_Pel
 
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMERXCmwSNCLpdU4XX3Kwc9vbrDlXYISz_D6TnAuMDoQ&s=10", Clube dos Anjos Caídos: Assassinatos Misteriosos (2025)
 https://ia800803.us.archive.org/28/items/paixaoflix-cinema-957445/Clube_dos_Anjos_Caidos_Assassi_957445.mp4
-
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/opOuHZxbo8tWeDmnBebF79U43wm.jpg", Agente Zero (2025)
-https://ia601403.us.archive.org/23/items/paixaoflix-cinema-1383247/Agente_Zero_1383247.mp4
 
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/4RVwOa0lgMIIJNYccEQVvShHUNZ.jpg", A Desconhecida (2025)
 https://ia800103.us.archive.org/6/items/paixaoflix-cinema-1274706/A_Desconhecida_1274706.mp4
@@ -20116,7 +20110,7 @@ https://ia802800.us.archive.org/1/items/paixaoflix-cinema-6312/O_Pacto_dos_Lobos
 # 🐲 DRAGON BALL DAIMA (20 EPISÓDIOS)
 # ==========================================
 
-#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/qlLJvJO8rsltmnWWbKgT13hP90I.jpg", [SERIE] Dragon Ball DAIMA
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/qlLJvJO8rsltmnWWbKgT13hP90I.jpg", [SERIE] Dragon Ball DAIMA
 #SINOPSE: Goku e seus amigos são transformados em crianças e partem para o Mundo dos Demônios em uma nova aventura cheia de ação e magia.
 #EPISODIO: S01E01|https://ia601504.us.archive.org/3/items/paixaoflix-serie-236994-s01/Dragon_Ball_DAIMA_S01E01.mp4
 #EPISODIO: S01E02|https://ia601504.us.archive.org/3/items/paixaoflix-serie-236994-s01/Dragon_Ball_DAIMA_S01E02.mp4
@@ -20204,18 +20198,6 @@ https://ia802800.us.archive.org/1/items/paixaoflix-cinema-6312/O_Pacto_dos_Lobos
 #EPISODIO: S01E07|https://ia801509.us.archive.org/17/items/paixaoflix-serie-219543-s01/Comando_das_Criaturas_S01E07.mp4
 
 # ==========================================
-# 🇧🇷 BRASIL 70: A SAGA DO TRI (5 EPISÓDIOS)
-# ==========================================
-
-#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/AbacRmw60119iQEiDf0dfseVDuk.jpg", [SERIE] Brasil 70: A Saga do Tri
-#SINOPSE: Minissérie de ficção que recria os momentos da campanha da seleção brasileira no mundial de 1970, com Pelé e outros craques, tendo como pano de fundo a Ditadura Militar no Brasil.
-#EPISODIO: S01E01|https://ia802808.us.archive.org/35/items/paixaoflix-serie-292532-s01/Brasil_70_A_Saga_do_Tri_S01E01.mp4
-#EPISODIO: S01E02|https://ia802808.us.archive.org/35/items/paixaoflix-serie-292532-s01/Brasil_70_A_Saga_do_Tri_S01E02.mp4
-#EPISODIO: S01E03|https://ia802808.us.archive.org/35/items/paixaoflix-serie-292532-s01/Brasil_70_A_Saga_do_Tri_S01E03.mp4
-#EPISODIO: S01E04|https://ia802808.us.archive.org/35/items/paixaoflix-serie-292532-s01/Brasil_70_A_Saga_do_Tri_S01E04.mp4
-#EPISODIO: S01E05|https://ia802808.us.archive.org/35/items/paixaoflix-serie-292532-s01/Brasil_70_A_Saga_do_Tri_S01E05.mp4
-
-# ==========================================
 # 🎤 MICHAEL JACKSON: O VEREDITO (3 EPISÓDIOS)
 # ==========================================
 
@@ -20293,25 +20275,6 @@ https://ia802800.us.archive.org/1/items/paixaoflix-cinema-6312/O_Pacto_dos_Lobos
 #EPISODIO: S01E15|https://ia801901.us.archive.org/16/items/paixaoflix-serie-61056-s01/Como_Defender_um_Assassino_S01E15.mp4
 
 # ==========================================
-# 🔫 BULLETBULLET (12 EPISÓDIOS)
-# ==========================================
-
-#EXTINF:-1 group-title="Séries" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTepcjO75SV74Ei6wHgjHPuqawXW0sDsEs0wl9CePjE_A&s=10", [SERIE] BulletBullet
-#SINOPSE: Ação e suspense em uma série onde balas e segredos se cruzam em uma trama de vingança e justiça.
-#EPISODIO: S01E01|https://ia800603.us.archive.org/6/items/paixaoflix-serie-215401-s01/BULLETBULLET_S01E01.mp4
-#EPISODIO: S01E02|https://ia800603.us.archive.org/6/items/paixaoflix-serie-215401-s01/BULLETBULLET_S01E02.mp4
-#EPISODIO: S01E03|https://ia800603.us.archive.org/6/items/paixaoflix-serie-215401-s01/BULLETBULLET_S01E03.mp4
-#EPISODIO: S01E04|https://ia800603.us.archive.org/6/items/paixaoflix-serie-215401-s01/BULLETBULLET_S01E04.mp4
-#EPISODIO: S01E05|https://ia800603.us.archive.org/6/items/paixaoflix-serie-215401-s01/BULLETBULLET_S01E05.mp4
-#EPISODIO: S01E06|https://ia800603.us.archive.org/6/items/paixaoflix-serie-215401-s01/BULLETBULLET_S01E06.mp4
-#EPISODIO: S01E07|https://ia800603.us.archive.org/6/items/paixaoflix-serie-215401-s01/BULLETBULLET_S01E07.mp4
-#EPISODIO: S01E08|https://ia800603.us.archive.org/6/items/paixaoflix-serie-215401-s01/BULLETBULLET_S01E08.mp4
-#EPISODIO: S01E09|https://ia800603.us.archive.org/6/items/paixaoflix-serie-215401-s01/BULLETBULLET_S01E09.mp4
-#EPISODIO: S01E10|https://ia800603.us.archive.org/6/items/paixaoflix-serie-215401-s01/BULLETBULLET_S01E10.mp4
-#EPISODIO: S01E11|https://ia800603.us.archive.org/6/items/paixaoflix-serie-215401-s01/BULLETBULLET_S01E11.mp4
-#EPISODIO: S01E12|https://ia800603.us.archive.org/6/items/paixaoflix-serie-215401-s01/BULLETBULLET_S01E12.mp4
-
-# ==========================================
 # 🌙 O NASCER DA LUA (18 EPISÓDIOS)
 # ==========================================
 
@@ -20335,36 +20298,6 @@ https://ia802800.us.archive.org/1/items/paixaoflix-cinema-6312/O_Pacto_dos_Lobos
 #EPISODIO: S01E16|https://ia601903.us.archive.org/23/items/paixaoflix-serie-203740-s01/O_Nascer_da_Lua_S01E16.mp4
 #EPISODIO: S01E17|https://ia601903.us.archive.org/23/items/paixaoflix-serie-203740-s01/O_Nascer_da_Lua_S01E17.mp4
 #EPISODIO: S01E18|https://ia601903.us.archive.org/23/items/paixaoflix-serie-203740-s01/O_Nascer_da_Lua_S01E18.mp4
-
-# ==========================================
-# 🥷 ATÉ O ÚLTIMO SAMURAI (6 EPISÓDIOS)
-# ==========================================
-
-#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/wP8wvUQ1HRVzaAja2HH5r62WhUa.jpg", [SERIE] Até o Último Samurai
-#SINOPSE: Um samurai em sua última jornada enfrenta desafios mortais enquanto busca redenção e honra em um mundo que muda rapidamente.
-#EPISODIO: S01E01|https://ia601809.us.archive.org/3/items/paixaoflix-serie-252193-s01/At%C3%A9_o_%C3%9Altimo_Samurai_S01E01.mp4
-#EPISODIO: S01E02|https://ia601809.us.archive.org/3/items/paixaoflix-serie-252193-s01/At%C3%A9_o_%C3%9Altimo_Samurai_S01E02.mp4
-#EPISODIO: S01E03|https://ia601809.us.archive.org/3/items/paixaoflix-serie-252193-s01/At%C3%A9_o_%C3%9Altimo_Samurai_S01E03.mp4
-#EPISODIO: S01E04|https://ia601809.us.archive.org/3/items/paixaoflix-serie-252193-s01/At%C3%A9_o_%C3%9Altimo_Samurai_S01E04.mp4
-#EPISODIO: S01E05|https://ia601809.us.archive.org/3/items/paixaoflix-serie-252193-s01/At%C3%A9_o_%C3%9Altimo_Samurai_S01E05.mp4
-#EPISODIO: S01E06|https://ia601809.us.archive.org/3/items/paixaoflix-serie-252193-s01/At%C3%A9_o_%C3%9Altimo_Samurai_S01E06.mp4
-
-# ==========================================
-# 💊 EFEITOS COLATERAIS (10 EPISÓDIOS)
-# ==========================================
-
-#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/kNRixn2I02msqH7x0nmNwMg6pez.jpg", [SERIE] Efeitos Colaterais
-#SINOPSE: Uma série de suspense e mistério onde os efeitos colaterais de um experimento científico desencadeiam eventos imprevisíveis.
-#EPISODIO: S01E01|https://ia801801.us.archive.org/11/items/paixaoflix-serie-228878-s01/Efeitos_Colaterais_S01E01.mp4
-#EPISODIO: S01E02|https://ia801801.us.archive.org/11/items/paixaoflix-serie-228878-s01/Efeitos_Colaterais_S01E02.mp4
-#EPISODIO: S01E03|https://ia801801.us.archive.org/11/items/paixaoflix-serie-228878-s01/Efeitos_Colaterais_S01E03.mp4
-#EPISODIO: S01E04|https://ia801801.us.archive.org/11/items/paixaoflix-serie-228878-s01/Efeitos_Colaterais_S01E04.mp4
-#EPISODIO: S01E05|https://ia801801.us.archive.org/11/items/paixaoflix-serie-228878-s01/Efeitos_Colaterais_S01E05.mp4
-#EPISODIO: S01E06|https://ia801801.us.archive.org/11/items/paixaoflix-serie-228878-s01/Efeitos_Colaterais_S01E06.mp4
-#EPISODIO: S01E07|https://ia801801.us.archive.org/11/items/paixaoflix-serie-228878-s01/Efeitos_Colaterais_S01E07.mp4
-#EPISODIO: S01E08|https://ia801801.us.archive.org/11/items/paixaoflix-serie-228878-s01/Efeitos_Colaterais_S01E08.mp4
-#EPISODIO: S01E09|https://ia801801.us.archive.org/11/items/paixaoflix-serie-228878-s01/Efeitos_Colaterais_S01E09.mp4
-#EPISODIO: S01E10|https://ia801801.us.archive.org/11/items/paixaoflix-serie-228878-s01/Efeitos_Colaterais_S01E10.mp4
 
 # ==========================================
 # 💰 BERLIM E A DAMA COM ARMINHO (8 EPISÓDIOS)
