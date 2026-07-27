@@ -1,5 +1,16 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/sbt.png",SBT RJ
+https://ww4.embedtv.lat/sbtrj
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/discoveryscience.png",Discovery Science
+https://ww4.embedtv.lat/discoveryscience
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/mtv.png",MTV
+https://ww4.embedtv.lat/mtv
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/telecinetouch.png",Telecine Touch
+https://ww4.embedtv.lat/telecinetouch
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/warnerchannel.png",Warnerchannel
+https://ww4.embedtv.lat/warnerchannel
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/universaltv.png",Universal
+https://ww4.embedtv.lat/universaltv
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/bandnews.png",Band News
 https://ww4.embedtv.lat/bandnews
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/bandsports.png",Band Sports
